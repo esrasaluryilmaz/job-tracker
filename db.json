@@ -10,33 +10,6 @@
       "id": "a1b2c3d4"
     },
     {
-      "position": "Product Manager",
-      "company": "Udemig",
-      "location": "Redmond, ABD",
-      "status": "Reddedildi",
-      "type": "Yarı Zamanlı",
-      "date": 1712607002328,
-      "id": "e5f6g7h8"
-    },
-    {
-      "position": "Product Manager",
-      "company": "IBM",
-      "location": "Redmond, ABD",
-      "status": "Devam Ediyor",
-      "type": "Yarı Zamanlı",
-      "date": 1716607002428,
-      "id": "i9j1k2l3"
-    },
-    {
-      "position": "Marketing Manager",
-      "company": "Microsoft",
-      "location": "Seattle, ABD",
-      "status": "Reddedildi",
-      "type": "Yarı Zamanlı",
-      "date": 1318607013502,
-      "id": "m4n5o6p7"
-    },
-    {
       "position": "Data Scientist",
       "company": "Microsoft",
       "location": "Menlo Park, ABD",
@@ -152,6 +125,33 @@
       "type": "Tam Zamanlı",
       "date": 1741811472012,
       "id": "-Ds2mVg"
+    },
+    {
+      "Pozisyon": "developer",
+      "company": "odoo",
+      "location": "liege",
+      "status": "Mülakat",
+      "type": "Tam zamanli",
+      "date": 1742043142522,
+      "id": "pZgYybf"
+    },
+    {
+      "Pozisyon": "developer",
+      "company": "odoo",
+      "location": "liege",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": 1742043856397,
+      "id": "pCMQ1aE"
+    },
+    {
+      "Pozisyon": "developer",
+      "company": "odoo",
+      "location": "liege",
+      "status": "Devam Ediyor",
+      "type": "Tam zamanli",
+      "date": 1742043913225,
+      "id": "rSSurpy"
     }
   ]
 }

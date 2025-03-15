@@ -24,7 +24,7 @@ const Filter = () => {
   useEffect(() => {
     //text undefined ise fonk. durdur
     if (text === undefined) return;
-    crossOriginIsolated.log("tusa basildi");
+
     //her tus vuruldugunda bir sayac baslat (300ms)
     const id = setTimeout(() => setDebouncedText(text), 300);
     //eger sure bitmeden useEffect tekrar calisirsa (onceki sayaci durdur )
